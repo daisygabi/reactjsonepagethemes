@@ -1,0 +1,6 @@
+[submodule "blogreactheme"]
+	path = blogreactheme
+	url = https://github.com/daisygabi/blogreactheme.git
+[submodule "storyreacttheme"]
+	path = storyreacttheme
+	url = https://github.com/daisygabi/storyreacttheme.git
